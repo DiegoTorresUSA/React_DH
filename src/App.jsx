@@ -1,11 +1,12 @@
 import './App.css'
-import Card from './Components/Card'
+import Form from './Components/Form.jsx'
+import Card from './Components/Card.jsx'
 
 function App() {
 
   return (
     <div className='App'>
-      <Card/>
+      <Form />
     </div>
   )
 }
